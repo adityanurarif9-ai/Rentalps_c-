@@ -1,0 +1,11 @@
+.vs/
+bin/
+obj/
+*.user
+*.suo
+
+# Data transaksi SQLite dan struk lokal
+*.db
+*.db-*
+struk/
+*.pdf
